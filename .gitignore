@@ -12,6 +12,7 @@ Carthage/Checkouts
 Carthage/Build/watchOS/
 Carthage/Build/Mac/
 Carthage/Build/tvOS/
+Carthage/Build/iOS/
 
 Carthage Cache
 *.pbxuser
